@@ -9,6 +9,7 @@ for i in test_list:
       res1.append(i)
 print ("The list after removing duplicates : " , res)
 print("duplicates only: " ,res1)
+
 # res1.sort()#sort method use
 # print(res1)
 
