@@ -124,5 +124,6 @@
 # printing list after removal
 # print ("The list after removing duplicates : " , res)
 # print("duplicates only: " ,res1)
+# print(res)
 
 
