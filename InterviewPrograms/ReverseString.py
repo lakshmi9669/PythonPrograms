@@ -13,4 +13,3 @@ stringValue=input("Enter the string")
 rev = " "
 for i in stringValue:
     rev = i + rev
-print(rev)
