@@ -1,4 +1,4 @@
-# 1) What is <Yield> Keyword in Python?
+# 1) What is <Yield> Keyword in Python ?
 #
 # The <yield> keyword in Python can turn any function into a generator. Yields work like a standard return keyword.
 # But it’ll always return a generator object. Also, a function can have multiple calls to the <yield> keyword.
